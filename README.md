@@ -1,4 +1,5 @@
 # Football Game using semaphores and shared memory
+University Project that simulates a football game using semaphores and shared memory in C
 
 ## Description
 There are 4 players and 1 goalkeeper in each team and 1 referee, everyone else will be assigned as LATE.  
@@ -21,12 +22,12 @@ Go to the "run" directory
 ./probSemSharedMemSoccerGame
 ```
 
-If it doesn't work you might have to use run the "clean.sh" file with the correct keys
+If it doesn't work you might have to run the "clean.sh" file with the correct keys
 
 ## Authors
 
-Tomás Candeias [@tomascandeias](https://www.linkedin.com/in/tomascandeias/)  
-Afonso Boto [@Afonso-Boto](https://www.linkedin.com/in/afonso-boto/)
+[@tomascandeias](https://www.linkedin.com/in/tomascandeias/)  
+[@afonsoboto](https://www.linkedin.com/in/afonso-boto/)
 
 ## License
 
