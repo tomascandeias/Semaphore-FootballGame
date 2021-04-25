@@ -1,9 +1,9 @@
 # Football Game using semaphores and shared memory
 
 ## Description
-There are 4 players and 1 goalkeeper in each team and 1 referee, everyone else will be assigned as LATE.
-The referee ends up being the fundamental piece because he is the one that starts/ends the match.
-For more explanation, you can read the “89123_89285.pdf” in Portuguese.
+There are 4 players and 1 goalkeeper in each team and 1 referee, everyone else will be assigned as LATE.  
+The referee ends up being the fundamental piece because he is the one that starts/ends the match.  
+For more explanation, you can read the “89123_89285.pdf” in Portuguese.  
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ If it doesn't work you might have to use run the "clean.sh" file with the correc
 
 ## Authors
 
-Tomás Candeias [@tomascandeias](https://www.linkedin.com/in/tomascandeias/)
+Tomás Candeias [@tomascandeias](https://www.linkedin.com/in/tomascandeias/)  
 Afonso Boto [@Afonso-Boto](https://www.linkedin.com/in/afonso-boto/)
 
 ## License
